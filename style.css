@@ -1,0 +1,21 @@
+body {
+  background:#03045e;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'roboto', sans-serif;
+  text-decoration: underline;
+  font-style: italic;
+  color: #0077b6;
+}
+
+li {
+  color: #0077b6;
+  font-family: 'roboto', sans-serif;
+}
+
+li:hover{
+  color: aliceblue;
+  font-style: italic;
+}
